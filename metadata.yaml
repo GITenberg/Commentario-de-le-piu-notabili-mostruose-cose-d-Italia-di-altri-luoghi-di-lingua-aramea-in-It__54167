@@ -1,0 +1,30 @@
+_repo: Commentario-de-le-piu-notabili-mostruose-cose-d-Italia-di-altri-luoghi-di-lingua-aramea-in-It__54167
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Landi, Ortensio
+    aliases:
+    - Lando, Ortensio
+    - Lando, Hortensio
+    - Philalethes, Polytopiensis
+    gutenberg_agent_id: '47741'
+    url: http://www.gutenberg.org/2009/agents/47741
+description: ''
+gutenberg_bookshelf: IT Narrativa varia
+gutenberg_issued: '2017-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54167'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- Italy -- Early works to 1800'
+- !lcsh 'Diet -- Italy -- Early works to 1800'
+- !lcsh 'Food -- Italy -- Early works to 1800'
+- !lcc 'PQ'
+- GITenberg
+title: Commentario de le piu notabili, & mostruose cose d'Italia, & di altri luoghi
+  di lingua aramea in Italiana tradotto, nelquale si impara, & prendesi estremo piacere
+url: http://www.gutenberg.org/ebooks/54167
